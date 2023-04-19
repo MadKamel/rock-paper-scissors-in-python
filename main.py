@@ -82,6 +82,7 @@ while True:
 
 
 print_score()
+print()
 if wins > 1:
     print('congrats, you win!')
 else:
